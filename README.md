@@ -1,4 +1,4 @@
-# Hi, I'm [Adın] 👋
+# Hi, I'm Onur 👋
 
 ## About Me
 Aspiring Cyber Security Specialist with extensive hands-on experience in Python, Linux, and networking.  
