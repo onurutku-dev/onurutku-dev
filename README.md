@@ -31,7 +31,6 @@ I enjoy solving challenging problems, experimenting with new technologies, and c
 - Implemented custom **Python scripts** to filter malicious requests and log suspicious activity  
 - Gained hands-on experience in **network security, web threats, and intrusion detection**
 
-*(Tip: Link this project to its repository once uploaded for maximum visibility.)*
 
 ---
 
